@@ -330,25 +330,3 @@ docker-compose up --scale order-service=3
 docker-compose up --scale payment-service=2
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🆘 Support
-
-For issues and questions:
-1. Check the troubleshooting section
-2. Review service logs
-3. Open an issue in the repository
-
----
-
-**Happy Coding! 🎉**
